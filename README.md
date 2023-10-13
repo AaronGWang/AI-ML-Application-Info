@@ -27,7 +27,7 @@ If you have concerns about the prerequisites of applying, well, there aren't man
 ----
 
 ## Mandatory Answer Questions
-Every applicant must answer these following questions. Please organize your answers in an organized PDF document, this should only take 5-10 minutes.
+Every applicant must answer these following questions. Please organize your answers in a PDF document, this should only take 5-10 minutes.
 
 1. What is your **name**, **grade level**, and if you will be here for the 2024-2025 school year.
 2. **Briefly** tell us about your coding experience. (<100 words)
@@ -67,6 +67,8 @@ A reminder, what we are looking for aren't exactly people who know 10 different 
 **Please email your FINAL PRODUCT to aaron01px2026@saschina.org PRIOR TO NOVEMBER 1ST.**
 
 GOOD LUCK!!! Email or WeChat Aaron or Douglas if you have any questions
+
+![are-yall-done-rjykeu](https://github.com/AaronGWang/AI-ML-Application-Info/assets/145851064/8a2c3beb-3fed-4926-8207-2efdb6c19db9)
 
 ----
 
