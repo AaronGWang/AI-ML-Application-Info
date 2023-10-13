@@ -62,7 +62,7 @@ Answer this question:
 ## Concluding Points
 Here is the end of all application questions and workload.
 
-A reminder, what we are looking for aren't exactly people who know 10 different coding languages, and are studying calculus BC. Instead we want people are very much interested in this area, and are willing to invest their time. Some qualities we may look for include: self-guided learning, time management, time management, and self dicipline.
+A reminder, what we are looking for aren't exactly people who know 10 different coding languages, and are studying calculus BC. Instead we want people are very much interested in this area, and are willing to invest their time. Some qualities we may look for include: self-guided learning, time management, and self dicipline.
 
 **Please email your FINAL PRODUCT to aaron01px2026@saschina.org PRIOR TO NOVEMBER 1ST.**
 
