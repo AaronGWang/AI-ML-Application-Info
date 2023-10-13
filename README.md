@@ -21,6 +21,9 @@ If you have concerns about the prerequisites of applying, well, there aren't man
 
 ***NOTE: We will still inquire on some information about your coding and math experience, but just remember it is not the main focus AT ALL***
 
+![no-stress-no-5b7ac3](https://github.com/AaronGWang/AI-ML-Application-Info/assets/145851064/04f5ef15-5f09-4b5e-b49d-cf4e7dd235e2)
+
+
 ----
 
 ## Mandatory Answer Questions
