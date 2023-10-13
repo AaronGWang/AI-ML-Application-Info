@@ -24,7 +24,7 @@ If you have concerns about the prerequisites of applying, well, there aren't man
 ----
 
 ## Mandatory Answer Questions
-Every applicant must answer these following questions. Please organize your answers from the previous questions in an organized PDF document, this should only take 5-10 minutes.
+Every applicant must answer these following questions. Please organize your answers in an organized PDF document, this should only take 5-10 minutes.
 
 1. What is your **name**, **grade level**, and if you will be here for the 2024-2025 school year.
 2. **Briefly** tell us about your coding experience. (<100 words)
@@ -32,16 +32,16 @@ Every applicant must answer these following questions. Please organize your answ
 4. **Briefly** explain why you decided to apply. (<100 words)
 
 
-## Choice Project & Research Questions
+## Choice Research & Project Questions
 Every applicant can choose **ONE** out of the following four options to complete. The product to demonstrate your findings is up to you (e.g. research paper, video, audio, etc...).
 
-1. Research an area of interest for you where AI is implemented. (e.g. AI in art, AI in Vehicles, AI in healthcare, etc...)
+1. Research an area of interest for you where AI is implemented. (e.g. AI in art, AI in Vehicles, AI in healthcare, etc...). What are the main AI models offered as products, what do they do?
 
-2. Explain what a neural network is when regarding machine learning, their applications, advantages, and disadvantages.
+2. Explain what a neural network is when regarding machine learning, their applications in machine learning, advantages, and disadvantages.
 
-3. Research an area where you believe AI will be advantageous in the future, why is that?
+3. Research an area where you believe AI will be advantageous in the future, why is that? Give us your predictions and how machine learning models might help those areas.
 
-4. What jobs and occupations will be eliminated in the future because of AI? Which ones come first, second, later, and why is it important to learn how machine learning works for the future?
+4. What jobs and occupations might be eliminated in the future because of AI? Which ones disapear first, second, last, and why is it important to learn how machine learning works for the future?
 
 ***The extensiveness of your answer has no requirement.***
 
@@ -50,7 +50,7 @@ Every applicant can choose **ONE** out of the following four options to complete
 This task is not required, but can be of benefit for your application. Answering the following question will further help us understand your self-learning abilities, as well as introduce you to some concepts that will be taught in the future. 
 
 Answer this question:
-- Explain some of the post popular and useful python libraries for coding **machine learning** models. What are they called? What are their uses?
+- Explain some of the popular and useful python libraries for coding **machine learning** models. What are they called? What are their uses?
 
 ***The extensiveness of your answer has no requirement.***
 
@@ -90,7 +90,7 @@ Role:
 - You will be provided similar learning material as group members. There is no time limit to when you complete everything, and you may work at your own pace.
 - You will not be able to work on the group's machine learning models during the school year, but our officers and mentors will provide you with other projects (e.g. online projects from kaggle.com) for you to work through by yourself.
 - Being an associete member, and having outstanding accomplishments will GREATLY boost your chances of being an offical member next application.
-- If a club member seen to be unfit at any time, or decides to retract their position at anytime, an outstanding associete member will replace them.
+- If a club member is seen as unfit, or decides to retract their position at anytime, an outstanding associete member will replace them.
 
 ***NOTE: Seniors will likely be chosen as associete members, as they won't be here for the next school year and therefore won't be able to work with other group members.***
 
