@@ -44,7 +44,7 @@ Every applicant can choose **ONE** out of the following four options to complete
 
 3. Research an area where you believe AI will be advantageous in the future, why is that? Give us your predictions and how machine learning models might help those areas.
 
-4. What jobs and occupations might be eliminated in the future because of AI? Which ones disapear first, second, last, and why is it important to learn how machine learning works for the future?
+4. What jobs and occupations might be eliminated in the future because of AI? Which ones disappear first, second, last, and why is it important to learn how machine learning works for the future?
 
 ***The extensiveness of your answer has no requirement.***
 
