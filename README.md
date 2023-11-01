@@ -73,7 +73,7 @@ GOOD LUCK!!! Email or WeChat Aaron or Douglas if you have any questions
 ----
 
 ## Group Member Information
-**6 Applicants will be chosen to be official group members.**
+**4 Applicants will be chosen to be official group members.**
 
 If you are accepted as an official group member, congrats! Here are some information for you:
 
